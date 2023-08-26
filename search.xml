@@ -4,13 +4,27 @@
   
     
     <entry>
-      <title></title>
-      <link href="/2023/08/26/firstblood/"/>
-      <url>/2023/08/26/firstblood/</url>
+      <title>关于2023年操作系统功能赛，我写了一个基于CFS的用户态调度框架？</title>
+      <link href="/2023/08/26/os/"/>
+      <url>/2023/08/26/os/</url>
       
-        <content type="html"><![CDATA[<p>这里暂时什么都没有</p>]]></content>
+        <content type="html"><![CDATA[<p>写在开头：<br>去年10月份的时候和某d商量着明年玩一玩操作系统功能赛拿个一等奖，兜兜转转终于到了今年三月份，忙活了几天选题之后，终于决定选择<strong>基于CFS的用户态调度框架</strong>，我们当时一致认为这是可以让我们立于不败之地的一个题目–有2021年google的sosp期刊支撑、需要修改linux内核…<br>虽然说，刚开始的时候指导老师隐隐约约坑了我们一下，但是随着比赛的逐步深入，最后还是找对了方向，终于是拿下了一等奖。<br>这里先开个坑，有空再过来补吧hh  </p>]]></content>
       
       
+      <categories>
+          
+          <category> 竞赛 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 操作系统 </tag>
+            
+            <tag> c++/c </tag>
+            
+        </tags>
       
     </entry>
     
